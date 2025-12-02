@@ -1,1 +1,1 @@
-[Checklist dạng bảng](?template=check-table.md
+[Checklist dạng bảng](?template=check-table.md)
